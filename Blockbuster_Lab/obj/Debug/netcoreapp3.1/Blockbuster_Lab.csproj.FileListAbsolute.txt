@@ -1,0 +1,13 @@
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.exe
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.deps.json
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.runtimeconfig.json
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.runtimeconfig.dev.json
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.dll
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\bin\Debug\netcoreapp3.1\Blockbuster_Lab.pdb
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.csprojAssemblyReference.cache
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.AssemblyInfoInputs.cache
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.AssemblyInfo.cs
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.csproj.CoreCompileInputs.cache
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.dll
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.pdb
+D:\Grand Circus\Blockbuster_Lab\Blockbuster_Lab\obj\Debug\netcoreapp3.1\Blockbuster_Lab.genruntimeconfig.cache

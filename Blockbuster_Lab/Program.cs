@@ -25,6 +25,10 @@ namespace Blockbuster_Lab
                 movie.Scenes.Add("Scene 4");
             }
 
+           
+
+            
+
         }
     }
 
