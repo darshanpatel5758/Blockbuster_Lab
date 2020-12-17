@@ -9,12 +9,12 @@ namespace Blockbuster_Lab
         {
             Blockbuster blockbuster = new Blockbuster();
 
-            blockbuster.Movies.Add(new DVD("Movie 1", Genre.Drama, 100));
-            blockbuster.Movies.Add(new DVD("Movie 2", Genre.Comedy, 110));
-            blockbuster.Movies.Add(new DVD("Movie 3", Genre.Horror, 130));
-            blockbuster.Movies.Add(new VHS("Movie 4", Genre.Romance, 140));
-            blockbuster.Movies.Add(new VHS("Movie 5", Genre.Action, 150));
-            blockbuster.Movies.Add(new VHS("Movie 6", Genre.Romance, 160));
+            blockbuster.Movies.Add(new DVD("Spider-Man: Far From Home", Genre.Drama, 110));
+            blockbuster.Movies.Add(new DVD("Avengers: Endgame", Genre.Comedy, 112));
+            blockbuster.Movies.Add(new DVD("Captain Marvel", Genre.Horror, 90));
+            blockbuster.Movies.Add(new VHS("Spider-Man: Homecoming", Genre.Romance, 160));
+            blockbuster.Movies.Add(new VHS("Avengers: Infinity War", Genre.Action, 155));
+            blockbuster.Movies.Add(new VHS("Black Panther", Genre.Romance, 90));
 
 
             foreach (Movie movie in blockbuster.Movies)
